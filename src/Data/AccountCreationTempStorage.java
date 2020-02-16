@@ -1,5 +1,6 @@
 package Data;
 //FOFFIBFFBUI
+//Edit 2
 
 public class AccountCreationTempStorage {
 	public String username;
