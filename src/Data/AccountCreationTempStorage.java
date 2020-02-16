@@ -9,5 +9,4 @@ public class AccountCreationTempStorage {
 	public String lastName;
 	public String password;
 	public String email;
-	public String nail;
 }
