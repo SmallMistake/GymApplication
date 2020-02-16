@@ -1,4 +1,5 @@
 package Data;
+//FOFFIBFFBUI
 
 public class AccountCreationTempStorage {
 	public String username;
